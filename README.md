@@ -41,7 +41,8 @@ My goal is simple: create interfaces that look calm, intentional, and profession
 
 ## 📫 Contact
 - GitHub: https://github.com/mohyA81
-
+- Linkedin: https://www.linkedin.com/in/mohadese-khanloo-904a2a200?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bp1NK7T3ERGWIesjP8mFUvw%3D%3D
+- Gmail: mohy.atlookhanloo@gmail.com & tiara.khanloo@gmail.com
 ---
 
 > I care more about **clarity and structure** than flashy effects.  
