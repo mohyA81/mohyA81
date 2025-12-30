@@ -27,10 +27,10 @@ My goal is simple: create interfaces that look calm, intentional, and profession
   Minimal portfolio website with timeline & animated skill bars  
   → HTML, CSS, JavaScript  
 
-- **Minimal portfolio website with Modern hero section & Features section & Portfolio gallery
+- Minimal portfolio website with Modern hero section & Features section & Portfolio gallery
   → HTML, CSS, JavaScript
 
-- ** A clean, responsive pricing section designed for portfolio and service-based websites
+- A clean, responsive pricing section designed for portfolio and service-based websites
   → HTML, CSS, JavaScript
 ---
 
