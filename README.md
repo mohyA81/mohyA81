@@ -28,10 +28,10 @@ My goal is simple: create interfaces that look calm, intentional, and profession
   → HTML, CSS, JavaScript  
 
 - Minimal portfolio website with Modern hero section & Features section & Portfolio gallery
-  → HTML, CSS, JavaScript
+- → HTML, CSS, JavaScript
 
 - A clean, responsive pricing section designed for portfolio and service-based websites
-  → HTML, CSS, JavaScript
+- → HTML, CSS, JavaScript
 ---
 
 ## 🎯 Currently Focused On
