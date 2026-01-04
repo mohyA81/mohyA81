@@ -49,7 +49,7 @@ My goal is simple: create interfaces that look calm, intentional, and profession
 
 ## 📫 Contact
 - GitHub: https://github.com/mohyA81
-- LinkedIn: https://www.linkedin.com/in/mohadese-khanloo
+- LinkedIn: https://www.linkedin.com/in/mohadese-khanloo-904a2a200?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BD3hM%2Bs0sQ52JDPZoZC7V%2Fw%3D%3D
 - Email: tiara.khanloo@gmail.com
 
 ---
