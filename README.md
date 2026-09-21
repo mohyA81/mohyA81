@@ -1,4 +1,4 @@
-# Hi, Tiara 👋
+# Hi, I'm Tiara 👋
 
 ### Frontend Developer | React & Tailwind CSS | Software Engineer
 
