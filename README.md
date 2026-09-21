@@ -1,4 +1,4 @@
-# Hi, I'm Mohadeseh(Tiara) 👋
+# Hi, Tiara 👋
 
 ### Frontend Developer | React & Tailwind CSS | Software Engineer
 
