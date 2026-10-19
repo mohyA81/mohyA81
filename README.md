@@ -1,74 +1,76 @@
+
 # Hi, I'm Tiara 👋
 
-### Frontend Developer | React & Tailwind CSS | Software Engineer
+### Software Engineering Graduate | AI/ML & Software Development
 
-I'm a Software Engineering graduate focused on building responsive, modern web applications with React and Tailwind CSS. I also have a background in AI/ML and enjoy solving real-world problems with data-driven approaches.
+I'm a Software Engineering graduate who enjoys learning by building projects and figuring out how things work.
 
-I enjoy turning ideas into functional, clean, and user-friendly interfaces.
+I'm currently focusing on Python, Machine Learning, and Deep Learning, with a growing interest in Computer Vision and image understanding. I also have experience building web applications with React and working with APIs and databases.
 
----
+I'm still learning, experimenting, and improving through hands-on projects. My goal is to build a strong foundation in software engineering and AI, and eventually explore these areas further through graduate study and research.
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
-### Frontend
-* **Languages:** JavaScript, HTML, CSS
-* **Frameworks & Libraries:** React, Tailwind CSS
-* **Tools:** Git, GitHub, VS Code
+**Programming:** Python, JavaScript, SQL, C#
 
-### Backend & Software
-* **Languages:** C#, Python, SQL
-* **Backend:** .NET, Django
+**AI & Data:** NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch
 
-### AI & Data
-* Python, NumPy, Pandas, Matplotlib, Scikit-learn, PyTorch
-* Machine Learning, Data Analysis
+**Web Development:** React, HTML, CSS, Tailwind CSS, REST APIs
 
----
+**Backend & Databases:** ASP.NET Core, Entity Framework Core, SQL Server
+
+**Tools:** Git, GitHub, Jupyter Notebook, VS Code
 
 ## 📌 Featured Projects
 
-### 🎨 My Portfolio
-A personal portfolio website built with React and Tailwind CSS.
+### 🖼️ [Fashion-MNIST Image Classification with CNN](https://github.com/mohyA81/fashion-mnist-cnn)
 
-**Tech:** React, JavaScript, Tailwind CSS
+My first hands-on deep learning project focused on image classification. I built a Convolutional Neural Network (CNN) with PyTorch to classify clothing images from the Fashion-MNIST dataset.
 
-- Responsive design
-- Component-based architecture
-- Clean, modern UI
+- Data preparation and preprocessing
+- CNN architecture and model training
+- Model evaluation and confusion matrix
+- Prediction examples and error analysis
 
-### 🔧 WorkFlow
-A service/work-order management application built with .NET and React.
+**Technologies:** Python, PyTorch, Torchvision, NumPy, Matplotlib, scikit-learn
 
-**Tech:** C#, ASP.NET Core, React, SQL Server, JWT
+### 🔧 [WorkFlow — Service Management System](https://github.com/mohyA81/WorkFlow)
 
-- Customer, technician, and work order management
-- REST API development
-- Database integration with Entity Framework Core
+A full-stack application for managing customers, technicians, and work orders. This project helped me practice connecting a React frontend to backend APIs and working with databases and authentication.
 
-### 🫀 Heart Disease Prediction
-A machine learning project for predicting heart disease using clinical data.
+- REST API integration
+- Database operations with Entity Framework Core and SQL Server
+- JWT authentication
+- Work-order management and status updates
 
-**Tech:** Python, Pandas, NumPy, Scikit-learn, Matplotlib
+**Technologies:** React, JavaScript, C#, ASP.NET Core, SQL Server
 
-- Exploratory data analysis and visualization
-- Logistic Regression and Random Forest
-- Model evaluation and confusion matrix analysis
+### 📊 [Heart Disease Prediction](https://github.com/mohyA81/heart-disease-prediction)
 
----
+A machine learning project where I explored a tabular dataset, prepared the data, and compared classification models.
 
-## 🎯 Currently
+- Exploratory data analysis and data cleaning
+- Logistic Regression, Random Forest, SVM, and KNN
+- Model evaluation using classification metrics and ROC-AUC
 
-* 🌐 Building responsive frontend projects with React and Tailwind
-* 💻 Available for freelance and short-term frontend work
-* 🤖 Exploring AI/ML as a long-term interest
+**Technologies:** Python, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn
 
----
+### 🌐 [Personal Portfolio Website](https://my-portfolio.mohadese-atlookhanloo.workers.dev/)
 
-## 🤝 Let's Connect
+A responsive personal website built to present my background and projects.
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/mohadese-khanloo/)
-* 💻 [GitHub](https://github.com/mohyA81)
+**Technologies:** React, JavaScript, Tailwind CSS, Framer Motion
 
----
+## 🎯 What I'm Working Toward
 
-> Open to freelance and short-term frontend projects."# mohyA81-" 
+- Strengthening my Python and Machine Learning skills
+- Learning more about Deep Learning and Computer Vision
+- Building projects that help me understand concepts through practice
+- Improving my software engineering and problem-solving skills
+- Preparing for future graduate study opportunities in AI/Computer Science
+
+## 🤝 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/mohadese-khanloo/)
+- [GitHub](https://github.com/mohyA81)
+- [Personal Portfolio](https://my-portfolio.mohadese-atlookhanloo.workers.dev/)
